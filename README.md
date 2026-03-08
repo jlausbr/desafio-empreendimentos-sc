@@ -188,17 +188,7 @@ curl -X DELETE http://localhost:8080/api/empreendimentos/1
 
 ## 🎥 Vídeo Pitch
 
-**Assista à demonstração da solução:**
-
 [![Vídeo Pitch - Desafio Empreendimentos SC](https://img.youtube.com/vi/zfXJzpNoEd4/maxresdefault.jpg)](https://www.youtube.com/watch?v=zfXJzpNoEd4)
-
-**Duração:** 3 minutos
-
-> Clique na imagem acima para assistir à demonstração completa da solução, que inclui:
-> - Demonstração do funcionamento da API REST
-> - Explicação das principais funcionalidades (CRUD)
-> - Principais decisões técnicas adotadas
-> - Arquitetura e tecnologias utilizadas
 
 ---
 
