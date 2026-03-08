@@ -186,6 +186,27 @@ curl -X DELETE http://localhost:8080/api/empreendimentos/1
 
 **Response:** `204 No Content`
 
+## 🎥 Vídeo Pitch
+
+**Assista à demonstração da solução:**
+
+[![Vídeo Pitch - Desafio Empreendimentos SC](https://img.youtube.com/vi/[INSIRA_ID_VIDEO]/maxresdefault.jpg)](https://www.youtube.com/watch?v=[INSIRA_ID_VIDEO])
+
+**Duração:** Até 3 minutos
+
+> Clique na imagem acima ou use o link para assistir à apresentação da solução, que inclui:
+> - Demonstração do funcionamento da API REST
+> - Explicação das principais funcionalidades (CRUD)
+> - Principais decisões técnicas adotadas
+> - Arquitetura e tecnologias utilizadas
+
+**⚠️ Instruções para substituir o vídeo:**
+1. Hospede seu vídeo pitch no YouTube ou plataforma similar
+2. Substitua `[INSIRA_ID_VIDEO]` pelo ID do vídeo (ex: `dQw4w9WgXcQ`)
+3. O link final deve estar no formato: `https://www.youtube.com/watch?v=[ID_DO_VIDEO]`
+
+---
+
 ## ✅ Testes
 
 Projeto inclui:
