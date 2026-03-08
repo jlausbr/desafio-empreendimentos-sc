@@ -221,39 +221,6 @@ mvn test
 # Result: 21 passed, 0 failed
 ```
 
-## 🔄 Versionamento Git
-
-**6 branches de desenvolvimento:**
-1. `feature/modelo-dados` — Entidade, Enum, Repository
-2. `feature/camada-servico` — Service + Exceção customizada
-3. `feature/api-rest` — Controller, DTOs, Exception Handler
-4. `feature/testes` — Testes unitários e de integração
-5. `docs/documentacao` — Documentação do projeto
-
-**12 commits distintos + 5 merge commits = 17 commits totais**
-
-## 📝 Validações
-
-- **Nome:** Obrigatório, mínimo 3 caracteres
-- **Empreendedor:** Obrigatório, mínimo 3 caracteres
-- **Email:** Obrigatório, formato válido
-- **Município:** Obrigatório
-- **Segmento:** Obrigatório (enum)
-- **Ativo:** Obrigatório (boolean)
-
-## 🎯 Próximas Melhorias
-
-- [ ] Autenticação e autorização (JWT)
-- [ ] Paginação de resultados
-- [ ] Soft delete (status de exclusão lógica)
-- [ ] Auditoria de mudanças
-- [ ] Cache de consultas frequentes
-- [ ] Documentação OpenAPI/Swagger
-
-## 📄 Licença
-
-Projeto desenvolvido para fins educacionais — SCTEC "IA para DEVs" 2026.
-
-## 👤 Autor
+##  Autor
 
 Jordan Laus — https://github.com/jlausbr/desafio-empreendimentos-sc
